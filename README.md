@@ -3,7 +3,7 @@
 🌦️ **WeatherAuthTracker** is a simple weather tracking web app built as part of a test assignment for the **Frontend Intern (AI / VibeCoding)** position.  
 It was generated and developed using **AI tools on Replit**.
 
-🔗 [Live Demo](https://pahumbiu.github.io/WeatherAuthTracker/)
+🔗 [Live Demo](https://pavflex.github.io/WeatherAuthTracker/)
 
 ---
 
